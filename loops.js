@@ -16,27 +16,6 @@ function whileLoop(num){
   return 'done'; 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function whileLoop(n) {
-  while (n > 0) {
-    console.log(--n)
-  }
-  return 'done'
-}
 function doWhileLoop(array) {
   function maybeTrue() {
     return Math.random() >= 0.5
